@@ -22,8 +22,6 @@
   </li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#technologies">Technologies</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
 </ul>
 
 <h2>About</h2>
@@ -51,7 +49,7 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/Srijan-D/density-exchange-assessment.git </code></pre>
+<pre><code>git clone https://github.com/Devanshu-1510/density.git </code></pre>
 
 <ol start="2">
   <li>Navigate to the project directory:</li>
@@ -86,10 +84,6 @@
   <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
   <li><a href="https://www.framer.com/motion/">Framer Motion</a></li>
 </ul>
-
-<h2>License</h2>
-
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>, which means you're free to use, modify, and distribute the code. Make sure to update the <code>LICENSE</code> file with your own name or organization.</p>
 
 </body>
 </html>
