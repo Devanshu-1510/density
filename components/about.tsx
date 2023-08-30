@@ -8,7 +8,7 @@ export function About() {
     <div className="my-10 space-y-6 rounded-3xl bg-[#fef6f0] p-5 py-20">
       <MotionDiv
         initial={{ opacity: 0, scale: 0 }}
-        animate={{ opacity: 1, scale: 2 }}
+        animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1 }}
         className="mb-18 ml-20 space-y-6 tracking-widest"
       >
